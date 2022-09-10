@@ -8,6 +8,6 @@
 
 ``
 
-[My profile](https://link-url-here.org)
+[My profile](https://github.com/uzregxurshid)
 
 ``
